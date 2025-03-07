@@ -6,6 +6,7 @@
 - 🏐 Voleyball player
 - ☕ I’m looking to collaborate on software projects
 
+
 ## Technologies:
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 <br>
@@ -49,9 +50,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br>
 
-## Stats:
-![PedroJ18's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroJ18&show_icons=true&theme=radical)
 
-![pedroj18's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroj18&show_icons=true&theme=transparent)
+## Stats:
+
+![PedroJ18's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroj18&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroJ18&layout=compact)
